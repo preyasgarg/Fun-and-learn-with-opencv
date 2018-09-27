@@ -5,7 +5,7 @@ Created on Sun Mar 18 01:42:19 2018
 @author: dpr
 """
 """
-will filter out specific color form video frame
+will filter out specific color from video frame or your webcam
 also can be used as a mask.
 """
 import cv2
